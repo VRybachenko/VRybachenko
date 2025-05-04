@@ -1,0 +1,17 @@
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Node
+node_modules/
+dist/
+
+# Other
+.env
