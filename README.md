@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi everyone! I'm Vadym - Middle QA Automation Engineer | ISTQB® Certified Tester <img src="https://em-content.zobj.net/source/telegram/386/man-technologist_1f468-200d-1f4bb.webp" alt="man-technologist" width="40" height="40" />
 
 <!--
 **VRybachenko/VRybachenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
